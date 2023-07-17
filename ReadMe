@@ -1,0 +1,14 @@
+for array impllimentation
+
+leftChild=cell[2X]
+rightChild= cell[2x+1]
+always root is at index 1
+index 0 is left along due to complexity
+
+Operations :
+ create
+ insert
+ delete of node
+ search
+ traversal
+ delete of tree
